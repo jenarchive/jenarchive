@@ -25,10 +25,3 @@ Building scalable backend systems and processing real-world data with computatio
 ### 📂 Featured Projects
 - **[Secondhand Marketplace App](https://github.com/jenarchive/secondhand-marketplace)** - A full-stack mobile marketplace built with React Native and Flask backend.
 - **[Optical GVT System](https://github.com/jenarchive/HARW-DAQ-system-software)** - Data-driven computational modeling for structural health monitoring and vibration analysis.
-
----
-
-### 📊 GitHub Contributions
-<p align="left">
-  <img src="https://ghchart.rshah.org/22ADF6/jenarchive" alt="Jen's GitHub Contributions" />
-</p>
